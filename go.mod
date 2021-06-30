@@ -1,4 +1,4 @@
-module github.com/loteir/kad
+module github.com/lotier/kad
 
 go 1.16
 
