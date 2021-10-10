@@ -33,9 +33,6 @@ github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 github.com/remyoudompheng/bigfft v0.0.0-20170806203942-52369c62f446/go.mod h1:uYEyJGbgTkfkS4+E/PavXkNJcbFIpEtjt2B0KDQ5+9M=
 github.com/swill/go.clipper v0.0.0-20160727040122-3274bcc4839c h1:sr4ewNudhajqwJwQN4p4DkuDjXAVEz4NEAfKHaM7vtE=
 github.com/swill/go.clipper v0.0.0-20160727040122-3274bcc4839c/go.mod h1:ZM1njTxz+Lbh770OBPuD7EJ0d1it9KYa61rDXiHCgZY=
-github.com/swill/kad v0.0.0-20200107153136-1d51e0f167e1 h1:YymrUATV7hBTtUdXvkXRS9/c8/GbHPlKruCXjgfM9Cc=
-github.com/swill/kad v0.0.0-20200107153136-1d51e0f167e1/go.mod h1:hYRLXjFuFDbI2zNuTovE3GUcl/65Sb7j5vQ4o4X2BWA=
-github.com/swill/svgo v0.0.0-20150715025413-bc384fa1e849 h1:y/mkdxJaxL1b2p0ky+UlTKr45ZZ+GHgckfZjei+Lv/k=
 github.com/swill/svgo v0.0.0-20150715025413-bc384fa1e849/go.mod h1:SSvV4Jfl4EpJ4+llpP6jS3b0HbUSd8dj/41bifi4Mkg=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/exp v0.0.0-20180321215751-8460e604b9de/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
